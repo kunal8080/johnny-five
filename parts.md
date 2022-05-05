@@ -72,6 +72,7 @@
 - [SoftPot Membrane - 50mm](http://www.sparkfun.com/products/8680)
 - [Triple Axis Magnometer/Compass HMC5883L](https://www.sparkfun.com/products/10530)
 - [Wiper/Actuator - 1N to 3N Force](http://www.sparkfun.com/products/9075)
+- hello
 
 
 
